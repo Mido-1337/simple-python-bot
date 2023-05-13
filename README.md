@@ -18,5 +18,16 @@ qrcode: Used to generate QR codes.
 4. Add your token
 5. Run python bot.py to start the bot.
 
+# Versions
+python = ">=3.10.0,<3.11"
+numpy = "^1.22.2"
+replit = "^3.2.4"
+urllib3 = "^1.26.12"
+Pillow = "^9.5.0"
+qrcode = "^7.4.2"
+bs4 = "^0.0.1"
+discord = "^2.2.2"
+openai = "^0.27.4"
+
 # Credits
 This bot was created by Mido.
